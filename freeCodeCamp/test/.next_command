@@ -223,3 +223,4 @@ pwd
 mkdir website
 ls --color=auto
 cd website
+ls --color=auto
