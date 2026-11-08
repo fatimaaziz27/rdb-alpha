@@ -373,3 +373,9 @@ mv client/assets/images/background.jpg images/
 rm images/background.jpg
 rmdir images
 ls --color=auto
+mkdir icons
+rm icons
+rmdir icons
+pwd
+ls --color=auto
+mkdir client/assets/icons
