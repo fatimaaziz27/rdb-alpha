@@ -390,3 +390,6 @@ ls --color=auto client/assets/icons
 mv icons CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
 find .
+s
+ls --color=auto
+mv CodeRoad.svg client/assets/icons
