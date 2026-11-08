@@ -406,3 +406,4 @@ find client/assets/fonts
 touch lato-bold.woff client/assets/fonts
 touch client/assets/fonts/lato-bold.woff
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
