@@ -389,3 +389,4 @@ mv CodeAlly.svg client/assets/icons
 ls --color=auto client/assets/icons
 mv icons CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
+find .
