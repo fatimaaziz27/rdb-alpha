@@ -209,3 +209,4 @@ more License
 more LICENSE-MIT
 __vsc_prompt_cmd_original
 clear
+ls --color=auto
