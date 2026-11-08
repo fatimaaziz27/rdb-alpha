@@ -221,3 +221,4 @@ ls --color=auto
 clear
 pwd
 mkdir website
+ls --color=auto
