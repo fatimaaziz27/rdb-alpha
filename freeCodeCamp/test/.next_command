@@ -205,3 +205,6 @@ pwd
 more README.md
 __vsc_prompt_cmd_original
 ls --color=auto
+more License
+more LICENSE-MIT
+__vsc_prompt_cmd_original
