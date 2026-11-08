@@ -403,3 +403,6 @@ touch client/assets/fonts/roboto-light.woff
 find . client/assets/fonts
 find .
 find client/assets/fonts
+touch lato-bold.woff client/assets/fonts
+touch client/assets/fonts/lato-bold.woff
+touch client/assets/fonts/lato-bold.ttf
