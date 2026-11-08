@@ -297,3 +297,11 @@ find --help
 find -name index.html
 find -name styles.css
 find -name src
+ls --color=auto
+tree website
+ls --color=auto
+ls --color=auto -r webste
+ls --color=auto -r website
+find website
+pwd
+find .
