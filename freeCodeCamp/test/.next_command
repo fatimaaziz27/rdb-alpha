@@ -410,3 +410,4 @@ touch client/assets/fonts/lato-light.ttf
 find .
 rm --help
 pwd
+rm -r fonts
