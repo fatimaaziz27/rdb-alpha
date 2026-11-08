@@ -269,3 +269,5 @@ ls --color=auto
 rm footer.jpeg
 rm header.png
 rm footer.jpeg
+la
+ls --color=auto
