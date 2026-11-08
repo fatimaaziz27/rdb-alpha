@@ -286,3 +286,4 @@ mv menlo.otf fonts
 find
 cd client
 mkdir client
+mkdir client/src
