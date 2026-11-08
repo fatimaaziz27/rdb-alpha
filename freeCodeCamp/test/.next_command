@@ -195,3 +195,4 @@ cd ..
 cd node_modulus
 cd node_modules
 ls --color=auto
+ls --color=auto -l
