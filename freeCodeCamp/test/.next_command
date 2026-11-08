@@ -411,3 +411,6 @@ find .
 rm --help
 pwd
 rm -r fonts
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/6d62b1d5dace93a33b3a6d3eca1317bd5e15bcb1/node' -p '"edd5544b4cba" + JSON.stringify(process.env) + "edd5544b4cba"'
