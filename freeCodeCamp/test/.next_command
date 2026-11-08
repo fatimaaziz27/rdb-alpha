@@ -317,3 +317,30 @@ pwd
 cd ../../..
 cd images
 ls --color=auto
+mv header.png webiste
+mv header.png
+mv hearder.png ..
+mv ls
+ls --color=auto
+cd ..
+ls --color=auto
+mv client/assets/images/website header.png
+ls --color=auto
+cd images
+ls --color=auto
+cd website
+more websit
+find header.png
+find -name header.png
+find .
+mv website header.png
+pwd
+mv webiste header.png
+ls --color=auto
+mv website ../header.png
+ls --color=auto
+mv header.png website
+ls --color=auto
+mv website header.png
+ls --color=auto
+mv header.png ..
