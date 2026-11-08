@@ -307,3 +307,4 @@ pwd
 find .
 ls --color=auto
 cd client
+mkdir assets
