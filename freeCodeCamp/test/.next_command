@@ -361,3 +361,13 @@ ls --color=auto
 mv images/footer.jpeg client/assets/images
 find .
 rmdir images
+mv images/background.jpg client/assets/images
+rmdir images
+rm images/backgroundjpg
+ls --color=auto images
+rm images/background.jpg
+ls --color=auto client/assets/images
+rm images/background.jpg
+mkdir images
+mv client/assets/images/background.jpg images/
+rm images/background.jpg
