@@ -348,3 +348,8 @@ ls --color=auto
 cd ...
 cd ..
 ls --color=auto
+find
+find --help
+find . -type d -name images
+ls --color=auto
+find -name images
