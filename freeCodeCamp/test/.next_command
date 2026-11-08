@@ -305,3 +305,5 @@ ls --color=auto -r website
 find website
 pwd
 find .
+ls --color=auto
+cd client
