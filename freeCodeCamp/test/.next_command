@@ -371,3 +371,4 @@ rm images/background.jpg
 mkdir images
 mv client/assets/images/background.jpg images/
 rm images/background.jpg
+rmdir images
