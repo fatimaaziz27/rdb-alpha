@@ -379,3 +379,13 @@ rmdir icons
 pwd
 ls --color=auto
 mkdir client/assets/icons
+mv CodeAlly.svg icons
+mv CodeAlly.svg client/assets/icons
+mv icons/CodeAlly.svg .
+pwd
+ls --color=auto
+mv icons/CodeAlly.svg .
+mv CodeAlly.svg client/assets/icons
+ls --color=auto client/assets/icons
+mv icons CodeAlly.svg
+mv CodeAlly.svg client/assets/icons
